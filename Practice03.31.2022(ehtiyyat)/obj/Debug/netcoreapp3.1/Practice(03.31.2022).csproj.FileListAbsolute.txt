@@ -1,0 +1,41 @@
+C:\Users\tu7ekdm78\Desktop\Practice\Practice(03.31.2022)\Practice(03.31.2022)\bin\Debug\netcoreapp3.1\Practice(03.31.2022).exe
+C:\Users\tu7ekdm78\Desktop\Practice\Practice(03.31.2022)\Practice(03.31.2022)\bin\Debug\netcoreapp3.1\Practice(03.31.2022).deps.json
+C:\Users\tu7ekdm78\Desktop\Practice\Practice(03.31.2022)\Practice(03.31.2022)\bin\Debug\netcoreapp3.1\Practice(03.31.2022).runtimeconfig.json
+C:\Users\tu7ekdm78\Desktop\Practice\Practice(03.31.2022)\Practice(03.31.2022)\bin\Debug\netcoreapp3.1\Practice(03.31.2022).runtimeconfig.dev.json
+C:\Users\tu7ekdm78\Desktop\Practice\Practice(03.31.2022)\Practice(03.31.2022)\bin\Debug\netcoreapp3.1\Practice(03.31.2022).dll
+C:\Users\tu7ekdm78\Desktop\Practice\Practice(03.31.2022)\Practice(03.31.2022)\bin\Debug\netcoreapp3.1\Practice(03.31.2022).pdb
+C:\Users\tu7ekdm78\Desktop\Practice\Practice(03.31.2022)\Practice(03.31.2022)\obj\Debug\netcoreapp3.1\Practice(03.31.2022).csproj.AssemblyReference.cache
+C:\Users\tu7ekdm78\Desktop\Practice\Practice(03.31.2022)\Practice(03.31.2022)\obj\Debug\netcoreapp3.1\Practice(03.31.2022).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tu7ekdm78\Desktop\Practice\Practice(03.31.2022)\Practice(03.31.2022)\obj\Debug\netcoreapp3.1\Practice(03.31.2022).AssemblyInfoInputs.cache
+C:\Users\tu7ekdm78\Desktop\Practice\Practice(03.31.2022)\Practice(03.31.2022)\obj\Debug\netcoreapp3.1\Practice(03.31.2022).AssemblyInfo.cs
+C:\Users\tu7ekdm78\Desktop\Practice\Practice(03.31.2022)\Practice(03.31.2022)\obj\Debug\netcoreapp3.1\Practice(03.31.2022).csproj.CoreCompileInputs.cache
+C:\Users\tu7ekdm78\Desktop\Practice\Practice(03.31.2022)\Practice(03.31.2022)\obj\Debug\netcoreapp3.1\Practice(03.31.2022).dll
+C:\Users\tu7ekdm78\Desktop\Practice\Practice(03.31.2022)\Practice(03.31.2022)\obj\Debug\netcoreapp3.1\Practice(03.31.2022).pdb
+C:\Users\tu7ekdm78\Desktop\Practice\Practice(03.31.2022)\Practice(03.31.2022)\obj\Debug\netcoreapp3.1\Practice(03.31.2022).genruntimeconfig.cache
+C:\Users\admin\OneDrive\İş masası\Practice03.31.2022\Practice(03.31.2022)\bin\Debug\netcoreapp3.1\Practice(03.31.2022).exe
+C:\Users\admin\OneDrive\İş masası\Practice03.31.2022\Practice(03.31.2022)\bin\Debug\netcoreapp3.1\Practice(03.31.2022).deps.json
+C:\Users\admin\OneDrive\İş masası\Practice03.31.2022\Practice(03.31.2022)\bin\Debug\netcoreapp3.1\Practice(03.31.2022).runtimeconfig.json
+C:\Users\admin\OneDrive\İş masası\Practice03.31.2022\Practice(03.31.2022)\bin\Debug\netcoreapp3.1\Practice(03.31.2022).runtimeconfig.dev.json
+C:\Users\admin\OneDrive\İş masası\Practice03.31.2022\Practice(03.31.2022)\bin\Debug\netcoreapp3.1\Practice(03.31.2022).dll
+C:\Users\admin\OneDrive\İş masası\Practice03.31.2022\Practice(03.31.2022)\bin\Debug\netcoreapp3.1\Practice(03.31.2022).pdb
+C:\Users\admin\OneDrive\İş masası\Practice03.31.2022\Practice(03.31.2022)\obj\Debug\netcoreapp3.1\Practice(03.31.2022).csprojAssemblyReference.cache
+C:\Users\admin\OneDrive\İş masası\Practice03.31.2022\Practice(03.31.2022)\obj\Debug\netcoreapp3.1\Practice(03.31.2022).AssemblyInfoInputs.cache
+C:\Users\admin\OneDrive\İş masası\Practice03.31.2022\Practice(03.31.2022)\obj\Debug\netcoreapp3.1\Practice(03.31.2022).AssemblyInfo.cs
+C:\Users\admin\OneDrive\İş masası\Practice03.31.2022\Practice(03.31.2022)\obj\Debug\netcoreapp3.1\Practice(03.31.2022).csproj.CoreCompileInputs.cache
+C:\Users\admin\OneDrive\İş masası\Practice03.31.2022\Practice(03.31.2022)\obj\Debug\netcoreapp3.1\Practice(03.31.2022).dll
+C:\Users\admin\OneDrive\İş masası\Practice03.31.2022\Practice(03.31.2022)\obj\Debug\netcoreapp3.1\Practice(03.31.2022).pdb
+C:\Users\admin\OneDrive\İş masası\Practice03.31.2022\Practice(03.31.2022)\obj\Debug\netcoreapp3.1\Practice(03.31.2022).genruntimeconfig.cache
+C:\Users\tu7ekdm78\Desktop\Practice03.31.2022\Practice(03.31.2022)\bin\Debug\netcoreapp3.1\Practice(03.31.2022).exe
+C:\Users\tu7ekdm78\Desktop\Practice03.31.2022\Practice(03.31.2022)\bin\Debug\netcoreapp3.1\Practice(03.31.2022).deps.json
+C:\Users\tu7ekdm78\Desktop\Practice03.31.2022\Practice(03.31.2022)\bin\Debug\netcoreapp3.1\Practice(03.31.2022).runtimeconfig.json
+C:\Users\tu7ekdm78\Desktop\Practice03.31.2022\Practice(03.31.2022)\bin\Debug\netcoreapp3.1\Practice(03.31.2022).runtimeconfig.dev.json
+C:\Users\tu7ekdm78\Desktop\Practice03.31.2022\Practice(03.31.2022)\bin\Debug\netcoreapp3.1\Practice(03.31.2022).dll
+C:\Users\tu7ekdm78\Desktop\Practice03.31.2022\Practice(03.31.2022)\bin\Debug\netcoreapp3.1\Practice(03.31.2022).pdb
+C:\Users\tu7ekdm78\Desktop\Practice03.31.2022\Practice(03.31.2022)\obj\Debug\netcoreapp3.1\Practice(03.31.2022).csproj.AssemblyReference.cache
+C:\Users\tu7ekdm78\Desktop\Practice03.31.2022\Practice(03.31.2022)\obj\Debug\netcoreapp3.1\Practice(03.31.2022).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tu7ekdm78\Desktop\Practice03.31.2022\Practice(03.31.2022)\obj\Debug\netcoreapp3.1\Practice(03.31.2022).AssemblyInfoInputs.cache
+C:\Users\tu7ekdm78\Desktop\Practice03.31.2022\Practice(03.31.2022)\obj\Debug\netcoreapp3.1\Practice(03.31.2022).AssemblyInfo.cs
+C:\Users\tu7ekdm78\Desktop\Practice03.31.2022\Practice(03.31.2022)\obj\Debug\netcoreapp3.1\Practice(03.31.2022).csproj.CoreCompileInputs.cache
+C:\Users\tu7ekdm78\Desktop\Practice03.31.2022\Practice(03.31.2022)\obj\Debug\netcoreapp3.1\Practice(03.31.2022).dll
+C:\Users\tu7ekdm78\Desktop\Practice03.31.2022\Practice(03.31.2022)\obj\Debug\netcoreapp3.1\Practice(03.31.2022).pdb
+C:\Users\tu7ekdm78\Desktop\Practice03.31.2022\Practice(03.31.2022)\obj\Debug\netcoreapp3.1\Practice(03.31.2022).genruntimeconfig.cache
